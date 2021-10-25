@@ -1,0 +1,1218 @@
+2021-10-18 20:49:55 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:38 - Read file pointsForTriangle.txt is successful
+2021-10-18 20:49:55 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:38 - Read file pointsForTriangle.txt is successful
+2021-10-18 20:50:36 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:38 - Read file pointsForTriangle.txt is successful
+2021-10-18 20:50:36 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:38 - Read file pointsForTriangle.txt is successful
+2021-10-18 20:52:44 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:38 - Read file src\main\resources\data\pointsForTriangle.txt is successful
+2021-10-18 20:52:44 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:38 - Read file src\main\resources\data\pointsForTriangle.txt is successful
+2021-10-18 20:53:32 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:38 - Read file src\main\resources\data\pointsForTriangle.txt is successful
+2021-10-18 20:53:32 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:38 - Read file src\main\resources\data\pointsForTriangle.txt is successful
+2021-10-18 20:53:55 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:38 - Read file src\main\resources\data\pointsForTriangle.txt is successful
+2021-10-18 20:53:55 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:38 - Read file src\main\resources\data\pointsForTriangle.txt is successful
+2021-10-18 20:58:53 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Parsing is successful
+2021-10-18 20:58:53 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Parsing is successful
+2021-10-18 20:58:53 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:39 - Read file src\main\resources\data\pointsForTriangle.txt is successful
+2021-10-18 20:58:53 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:39 - Read file src\main\resources\data\pointsForTriangle.txt is successful
+2021-10-18 21:02:26 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Parsing is successful
+2021-10-18 21:02:26 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Parsing is successful
+2021-10-18 21:02:26 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:40 - Read file src\main\resources\data\pointsForTriangle.txt is successful
+2021-10-18 21:02:26 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:40 - Read file src\main\resources\data\pointsForTriangle.txt is successful
+2021-10-18 21:02:26 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Parsing is successful
+2021-10-18 21:02:26 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Parsing is successful
+2021-10-18 22:24:28 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:40 - Read file src\main\resources\data\pointsForTriangle.txt is successful
+2021-10-18 22:24:28 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:40 - Read file src\main\resources\data\pointsForTriangle.txt is successful
+2021-10-18 22:24:28 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Parsing is successful
+2021-10-18 22:24:28 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Parsing is successful
+2021-10-18 23:22:49 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:40 - Read file src\main\resources\data\pointsForTriangle.txt is successful
+2021-10-18 23:22:49 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:40 - Read file src\main\resources\data\pointsForTriangle.txt is successful
+2021-10-19 08:47:37 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:40 - Read file src\main\resources\data\pointsForTriangle.txt is successful
+2021-10-19 08:47:37 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:40 - Read file src\main\resources\data\pointsForTriangle.txt is successful
+2021-10-19 10:45:51 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:40 - Read file src\main\resources\data\pointsForTriangle.txt is successful
+2021-10-19 10:45:51 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:40 - Read file src\main\resources\data\pointsForTriangle.txt is successful
+2021-10-19 10:54:03 [main] ERROR volodko.shape.reader.impl.ReaderFromFileImpl:47 - IO Exception: 
+java.nio.file.NoSuchFileException: src\main\resources\data\Triangle.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newFileChannel(WindowsFileSystemProvider.java:120) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:292) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:345) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4037) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4129) ~[?:?]
+	at by.epam.volodko.shape.reader.impl.TriangleReaderImpl.readFile(ReaderFromFileImpl.java:33) [classes/:?]
+	at by.epam.volodko.shape.main.Demo.main(Demo.java:20) [classes/:?]
+2021-10-19 10:54:03 [main] ERROR volodko.shape.reader.impl.ReaderFromFileImpl:47 - IO Exception: 
+java.nio.file.NoSuchFileException: src\main\resources\data\Triangle.txt
+	at sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103) ~[?:?]
+	at sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108) ~[?:?]
+	at sun.nio.fs.WindowsFileSystemProvider.newFileChannel(WindowsFileSystemProvider.java:120) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:292) ~[?:?]
+	at java.nio.channels.FileChannel.open(FileChannel.java:345) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4037) ~[?:?]
+	at java.nio.file.Files.lines(Files.java:4129) ~[?:?]
+	at by.epam.volodko.shape.reader.impl.TriangleReaderImpl.readFile(ReaderFromFileImpl.java:33) [classes/:?]
+	at by.epam.volodko.shape.main.Demo.main(Demo.java:20) [classes/:?]
+2021-10-19 10:54:15 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:40 - Read file src\main\resources\data\pointsTriangle.txt is successful
+2021-10-19 10:54:15 [main] INFO  volodko.shape.reader.impl.ReaderFromFileImpl:40 - Read file src\main\resources\data\pointsTriangle.txt is successful
+2021-10-19 11:03:14 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:25 - Array before validation[2.5, 3.4, 2.5, 6.4, 6.5, 3.4]
+2021-10-19 11:03:14 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:25 - Array before validation[2.5, 3.4, 2.5, 6.4, 6.5, 3.4]
+2021-10-24 14:54:07 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of Triangle{triangleId=0, pointA=CustomPoint{x=1.0, y=1.0}, pointB=CustomPoint{x=2.0, y=2.0}, pointC=CustomPoint{x=0.0, y=2.0}} is 4.828
+2021-10-24 14:54:07 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of Triangle{triangleId=0, pointA=CustomPoint{x=1.0, y=1.0}, pointB=CustomPoint{x=2.0, y=2.0}, pointC=CustomPoint{x=0.0, y=2.0}} is 4.828
+2021-10-24 14:55:45 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of Triangle{triangleId=0, pointA=CustomPoint{x=1.0, y=1.0}, pointB=CustomPoint{x=2.0, y=2.0}, pointC=CustomPoint{x=0.0, y=2.0}} is 4.828
+2021-10-24 14:55:45 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of Triangle{triangleId=0, pointA=CustomPoint{x=1.0, y=1.0}, pointB=CustomPoint{x=2.0, y=2.0}, pointC=CustomPoint{x=0.0, y=2.0}} is 4.828
+2021-10-24 14:56:09 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of Triangle{triangleId=1, pointA=CustomPoint{x=1.0, y=1.0}, pointB=CustomPoint{x=2.0, y=2.0}, pointC=CustomPoint{x=0.0, y=2.0}} is 4.828
+2021-10-24 14:56:09 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of Triangle{triangleId=1, pointA=CustomPoint{x=1.0, y=1.0}, pointB=CustomPoint{x=2.0, y=2.0}, pointC=CustomPoint{x=0.0, y=2.0}} is 4.828
+2021-10-24 14:56:27 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of Triangle{triangleId=1, pointA=CustomPoint{x=1.0, y=1.0}, pointB=CustomPoint{x=2.0, y=2.0}, pointC=CustomPoint{x=0.0, y=2.0}} is 4.828
+2021-10-24 14:56:27 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of Triangle{triangleId=1, pointA=CustomPoint{x=1.0, y=1.0}, pointB=CustomPoint{x=2.0, y=2.0}, pointC=CustomPoint{x=0.0, y=2.0}} is 4.828
+2021-10-24 14:57:05 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of Triangle{triangleId=1, pointA=CustomPoint{x=1.0, y=1.0}, pointB=CustomPoint{x=2.0, y=2.0}, pointC=CustomPoint{x=0.0, y=2.0}} is 4.828
+2021-10-24 14:57:05 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of Triangle{triangleId=1, pointA=CustomPoint{x=1.0, y=1.0}, pointB=CustomPoint{x=2.0, y=2.0}, pointC=CustomPoint{x=0.0, y=2.0}} is 4.828
+2021-10-24 14:57:28 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of Triangle{triangleId=1, pointA=CustomPoint{x=1.0, y=1.0}, pointB=CustomPoint{x=2.0, y=2.0}, pointC=CustomPoint{x=0.0, y=2.0}} is 4.828
+2021-10-24 14:57:28 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of Triangle{triangleId=1, pointA=CustomPoint{x=1.0, y=1.0}, pointB=CustomPoint{x=2.0, y=2.0}, pointC=CustomPoint{x=0.0, y=2.0}} is 4.828
+2021-10-24 14:57:28 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of Triangle{triangleId=2, pointA=CustomPoint{x=1.0, y=1.0}, pointB=CustomPoint{x=2.0, y=2.0}, pointC=CustomPoint{x=0.0, y=2.0}} is 4.828
+2021-10-24 14:57:28 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of Triangle{triangleId=2, pointA=CustomPoint{x=1.0, y=1.0}, pointB=CustomPoint{x=2.0, y=2.0}, pointC=CustomPoint{x=0.0, y=2.0}} is 4.828
+2021-10-24 14:58:32 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of 1 is 4.828
+2021-10-24 14:58:32 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of 1 is 4.828
+2021-10-24 14:58:32 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of 2 is 4.828
+2021-10-24 14:58:32 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of 2 is 4.828
+2021-10-24 14:59:27 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of triangle with ID= 1 is 4.828
+2021-10-24 14:59:27 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of triangle with ID= 1 is 4.828
+2021-10-24 14:59:27 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of triangle with ID= 2 is 4.828
+2021-10-24 14:59:27 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of triangle with ID= 2 is 4.828
+2021-10-24 14:59:39 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of triangle with ID = 1 is 4.828
+2021-10-24 14:59:39 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of triangle with ID = 1 is 4.828
+2021-10-24 14:59:39 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of triangle with ID = 2 is 4.828
+2021-10-24 14:59:39 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:40 - Perimeter of triangle with ID = 2 is 4.828
+2021-10-24 15:19:02 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:58 - Area of triangle with ID = 1 is 1.0
+2021-10-24 15:19:02 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:58 - Area of triangle with ID = 1 is 1.0
+2021-10-24 15:19:02 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:58 - Area of triangle with ID = 2 is 1.0
+2021-10-24 15:19:02 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:58 - Area of triangle with ID = 2 is 1.0
+2021-10-24 15:21:44 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:58 - Area of triangle with ID = 1 is 1.0
+2021-10-24 15:21:44 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:58 - Area of triangle with ID = 1 is 1.0
+2021-10-24 15:21:44 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:58 - Area of triangle with ID = 2 is 2.0
+2021-10-24 15:21:44 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:58 - Area of triangle with ID = 2 is 2.0
+2021-10-24 15:38:53 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 1 isn't equilateral
+2021-10-24 15:38:53 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 1 isn't equilateral
+2021-10-24 15:38:53 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 1is isosceles
+2021-10-24 15:38:53 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 1is isosceles
+2021-10-24 15:38:53 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:59 - Area of triangle with ID = 2 is 2.0
+2021-10-24 15:38:53 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:59 - Area of triangle with ID = 2 is 2.0
+2021-10-24 15:40:20 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 1 isn't equilateral
+2021-10-24 15:40:20 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 1 isn't equilateral
+2021-10-24 15:40:20 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 1 is isosceles
+2021-10-24 15:40:20 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 1 is isosceles
+2021-10-24 15:40:20 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 2 is isosceles
+2021-10-24 15:40:20 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 2 is isosceles
+2021-10-24 15:40:20 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 2 isn't equilateral
+2021-10-24 15:40:20 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 2 isn't equilateral
+2021-10-24 15:46:28 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 1 isn't equilateral
+2021-10-24 15:46:28 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 1 isn't equilateral
+2021-10-24 15:46:28 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 1 is isosceles
+2021-10-24 15:46:28 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 1 is isosceles
+2021-10-24 15:46:28 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 3 is isosceles
+2021-10-24 15:46:28 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 3 is isosceles
+2021-10-24 15:46:28 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 3 isn't equilateral
+2021-10-24 15:46:28 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 3 isn't equilateral
+2021-10-24 15:46:28 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 2 isn't equilateral
+2021-10-24 15:46:28 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 2 isn't equilateral
+2021-10-24 15:46:28 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 2 is isosceles
+2021-10-24 15:46:28 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 2 is isosceles
+2021-10-24 15:52:44 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 1 isn't equilateral
+2021-10-24 15:52:44 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 1 isn't equilateral
+2021-10-24 15:52:44 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 1 is isosceles
+2021-10-24 15:52:44 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 1 is isosceles
+2021-10-24 15:52:44 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 3 is isosceles
+2021-10-24 15:52:44 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 3 is isosceles
+2021-10-24 15:52:44 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 3 isn't equilateral
+2021-10-24 15:52:44 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 3 isn't equilateral
+2021-10-24 15:52:44 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 2 isn't equilateral
+2021-10-24 15:52:44 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 2 isn't equilateral
+2021-10-24 15:52:44 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 2 is isosceles
+2021-10-24 15:52:44 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 2 is isosceles
+2021-10-24 15:56:24 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 1 isn't equilateral
+2021-10-24 15:56:24 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 1 isn't equilateral
+2021-10-24 15:56:24 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 1 is isosceles
+2021-10-24 15:56:24 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 1 is isosceles
+2021-10-24 15:56:24 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 3 is isosceles
+2021-10-24 15:56:24 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 3 is isosceles
+2021-10-24 15:56:24 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 3 isn't equilateral
+2021-10-24 15:56:24 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 3 isn't equilateral
+2021-10-24 15:56:24 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 2 isn't equilateral
+2021-10-24 15:56:24 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 2 isn't equilateral
+2021-10-24 15:56:24 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 2 is isosceles
+2021-10-24 15:56:24 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 2 is isosceles
+2021-10-24 15:57:00 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 1 isn't equilateral
+2021-10-24 15:57:00 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 1 isn't equilateral
+2021-10-24 15:57:00 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 1 is isosceles
+2021-10-24 15:57:00 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 1 is isosceles
+2021-10-24 15:57:00 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 3 is isosceles
+2021-10-24 15:57:00 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 3 is isosceles
+2021-10-24 15:57:00 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 3 isn't equilateral
+2021-10-24 15:57:00 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 3 isn't equilateral
+2021-10-24 15:57:00 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 2 isn't equilateral
+2021-10-24 15:57:00 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 2 isn't equilateral
+2021-10-24 15:57:00 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 2 is isosceles
+2021-10-24 15:57:00 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 2 is isosceles
+2021-10-24 15:57:15 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 1 isn't equilateral
+2021-10-24 15:57:15 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 1 isn't equilateral
+2021-10-24 15:57:15 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 1 is isosceles
+2021-10-24 15:57:15 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 1 is isosceles
+2021-10-24 15:57:15 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 3 is isosceles
+2021-10-24 15:57:15 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 3 is isosceles
+2021-10-24 15:57:15 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 3 isn't equilateral
+2021-10-24 15:57:15 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 3 isn't equilateral
+2021-10-24 15:57:15 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 2 isn't equilateral
+2021-10-24 15:57:15 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:90 - Triangle with ID = 2 isn't equilateral
+2021-10-24 15:57:15 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 2 is isosceles
+2021-10-24 15:57:15 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:74 - Triangle with ID = 2 is isosceles
+2021-10-24 20:45:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 2.5 3.4     2.5 6.4     6.5 3.4
+2021-10-24 20:45:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 2.5 3.4     2.5 6.4     6.5 3.4
+2021-10-24 20:45:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -3.8 1.2    -2.3 3.2    -0.8 1.2
+2021-10-24 20:45:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -3.8 1.2    -2.3 3.2    -0.8 1.2
+2021-10-24 20:45:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 0 0         2.5 4.33    5 0
+2021-10-24 20:45:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 0 0         2.5 4.33    5 0
+2021-10-24 20:45:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-24 20:45:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-24 20:45:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -10 -12     -5 -7.5     -2 -12
+2021-10-24 20:45:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -10 -12     -5 -7.5     -2 -12
+2021-10-24 20:45:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 8.3 -15     10.5 -11.1  17.6 -16.2
+2021-10-24 20:45:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 8.3 -15     10.5 -11.1  17.6 -16.2
+2021-10-24 20:45:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -3 -3       -3 3.2      1.8 -3
+2021-10-24 20:45:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -3 -3       -3 3.2      1.8 -3
+2021-10-24 20:45:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 1.0 53      89 74       12.7 45
+2021-10-24 20:45:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 1.0 53      89 74       12.7 45
+2021-10-24 20:45:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 1 8         45.3 7      15.7 78.3
+2021-10-24 20:45:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 1 8         45.3 7      15.7 78.3
+2021-10-24 20:45:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-24 20:45:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-24 20:47:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 2.5 3.4     2.5 6.4     6.5 3.4
+2021-10-24 20:47:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 2.5 3.4     2.5 6.4     6.5 3.4
+2021-10-24 20:47:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -3.8 1.2    -2.3 3.2    -0.8 1.2
+2021-10-24 20:47:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -3.8 1.2    -2.3 3.2    -0.8 1.2
+2021-10-24 20:47:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 0 0         2.5 4.33    5 0
+2021-10-24 20:47:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 0 0         2.5 4.33    5 0
+2021-10-24 20:47:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-24 20:47:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-24 20:47:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -10 -12     -5 -7.5     -2 -12
+2021-10-24 20:47:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -10 -12     -5 -7.5     -2 -12
+2021-10-24 20:47:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 8.3 -15     10.5 -11.1  17.6 -16.2
+2021-10-24 20:47:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 8.3 -15     10.5 -11.1  17.6 -16.2
+2021-10-24 20:47:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -3 -3       -3 3.2      1.8 -3
+2021-10-24 20:47:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -3 -3       -3 3.2      1.8 -3
+2021-10-24 20:47:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 1.0 53      89 74       12.7 45
+2021-10-24 20:47:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 1.0 53      89 74       12.7 45
+2021-10-24 20:47:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 1 8         45.3 7      15.7 78.3
+2021-10-24 20:47:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 1 8         45.3 7      15.7 78.3
+2021-10-24 20:47:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-24 20:47:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-24 20:49:06 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 2.5 3.4     2.5 6.4     6.5 3.4
+2021-10-24 20:49:06 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 2.5 3.4     2.5 6.4     6.5 3.4
+2021-10-24 20:49:06 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -3.8 1.2    -2.3 3.2    -0.8 1.2
+2021-10-24 20:49:06 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -3.8 1.2    -2.3 3.2    -0.8 1.2
+2021-10-24 20:49:06 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 0 0         2.5 4.33    5 0
+2021-10-24 20:49:06 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 0 0         2.5 4.33    5 0
+2021-10-24 20:49:06 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-24 20:49:06 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-24 20:49:06 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -10 -12     -5 -7.5     -2 -12
+2021-10-24 20:49:06 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -10 -12     -5 -7.5     -2 -12
+2021-10-24 20:49:06 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 8.3 -15     10.5 -11.1  17.6 -16.2
+2021-10-24 20:49:06 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 8.3 -15     10.5 -11.1  17.6 -16.2
+2021-10-24 20:49:06 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -3 -3       -3 3.2      1.8 -3
+2021-10-24 20:49:06 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -3 -3       -3 3.2      1.8 -3
+2021-10-24 20:49:06 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 1.0 53      89 74       12.7 45
+2021-10-24 20:49:06 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 1.0 53      89 74       12.7 45
+2021-10-24 20:49:06 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 1 8         45.3 7      15.7 78.3
+2021-10-24 20:49:06 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 1 8         45.3 7      15.7 78.3
+2021-10-24 20:49:06 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-24 20:49:06 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-24 20:52:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 2.5 3.4     2.5 6.4     6.5 3.4
+2021-10-24 20:52:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 2.5 3.4     2.5 6.4     6.5 3.4
+2021-10-24 20:52:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -3.8 1.2    -2.3 3.2    -0.8 1.2
+2021-10-24 20:52:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -3.8 1.2    -2.3 3.2    -0.8 1.2
+2021-10-24 20:52:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 0 0         2.5 4.33    5 0
+2021-10-24 20:52:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 0 0         2.5 4.33    5 0
+2021-10-24 20:52:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-24 20:52:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-24 20:52:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -10 -12     -5 -7.5     -2 -12
+2021-10-24 20:52:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -10 -12     -5 -7.5     -2 -12
+2021-10-24 20:52:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 8.3 -15     10.5 -11.1  17.6 -16.2
+2021-10-24 20:52:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 8.3 -15     10.5 -11.1  17.6 -16.2
+2021-10-24 20:52:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -3 -3       -3 3.2      1.8 -3
+2021-10-24 20:52:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: -3 -3       -3 3.2      1.8 -3
+2021-10-24 20:52:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 1.0 53      89 74       12.7 45
+2021-10-24 20:52:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 1.0 53      89 74       12.7 45
+2021-10-24 20:52:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 1 8         45.3 7      15.7 78.3
+2021-10-24 20:52:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 1 8         45.3 7      15.7 78.3
+2021-10-24 20:52:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-24 20:52:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-24 20:53:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-24 20:53:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-24 20:53:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-24 20:53:03 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 09:00:29 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:40 - 2.5 3.4     2.5 6.4     6.5 3.4 added
+2021-10-25 09:00:29 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:40 - 2.5 3.4     2.5 6.4     6.5 3.4 added
+2021-10-25 09:00:29 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:40 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added
+2021-10-25 09:00:29 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:40 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added
+2021-10-25 09:00:29 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:40 - 0 0         2.5 4.33    5 0 added
+2021-10-25 09:00:29 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:40 - 0 0         2.5 4.33    5 0 added
+2021-10-25 09:00:29 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:40 - -10 -12     -5 -7.5     -2 -12 added
+2021-10-25 09:00:29 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:40 - -10 -12     -5 -7.5     -2 -12 added
+2021-10-25 09:00:29 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:40 - 8.3 -15     10.5 -11.1  17.6 -16.2 added
+2021-10-25 09:00:29 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:40 - 8.3 -15     10.5 -11.1  17.6 -16.2 added
+2021-10-25 09:00:29 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:40 - -3 -3       -3 3.2      1.8 -3 added
+2021-10-25 09:00:29 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:40 - -3 -3       -3 3.2      1.8 -3 added
+2021-10-25 09:00:29 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:40 - 1.0 53      89 74       12.7 45 added
+2021-10-25 09:00:29 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:40 - 1.0 53      89 74       12.7 45 added
+2021-10-25 09:00:29 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:40 - 1 8         45.3 7      15.7 78.3 added
+2021-10-25 09:00:29 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:40 - 1 8         45.3 7      15.7 78.3 added
+2021-10-25 09:10:02 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 09:10:02 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 09:10:02 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 09:10:02 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:30 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 09:11:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 09:12:15 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 09:12:15 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 09:12:15 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 09:12:15 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 09:12:15 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 09:12:15 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 09:12:15 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:34 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 09:12:15 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:34 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 09:12:15 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 09:12:15 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 09:12:15 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 09:12:15 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 09:12:15 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 09:12:15 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 09:12:15 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 09:12:15 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 09:12:15 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 09:12:15 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 09:12:15 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:34 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 09:12:15 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:34 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 09:18:50 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 09:18:50 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 09:18:50 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 09:18:50 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 09:18:50 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 09:18:50 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 09:18:50 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:34 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 09:18:50 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:34 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 09:18:50 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 09:18:50 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 09:18:50 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 09:18:50 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 09:18:50 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 09:18:50 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 09:18:50 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 09:18:50 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 09:18:50 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 09:18:50 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:32 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 09:18:50 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:34 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 09:18:50 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:34 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 09:45:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 09:45:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 09:45:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 09:45:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 09:45:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 09:45:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 09:45:44 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 09:45:44 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 09:45:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 09:45:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 09:45:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 09:45:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 09:45:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 09:45:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 09:45:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 09:45:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 09:45:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 09:45:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 09:45:44 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 09:45:44 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 09:45:44 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:32 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 10:05:59 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 10:05:59 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 10:05:59 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 10:05:59 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 10:05:59 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 10:05:59 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 10:05:59 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 10:05:59 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 10:05:59 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 10:05:59 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 10:05:59 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 10:05:59 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 10:05:59 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 10:05:59 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 10:05:59 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 10:05:59 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 10:05:59 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 10:05:59 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 10:05:59 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:05:59 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:44 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 10:26:32 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 10:26:32 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 10:26:32 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 10:26:32 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 10:26:32 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 10:26:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 10:26:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 10:26:32 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 10:26:32 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 10:26:32 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 10:26:32 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 10:26:32 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 10:26:32 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 10:26:32 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 10:26:32 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 10:26:32 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 10:26:32 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 10:26:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 10:26:32 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:26:32 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:27 - Triangle can't be created. Wrong data
+2021-10-25 10:28:14 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 10:28:14 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 10:28:14 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 10:28:14 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 10:28:14 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 10:28:14 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 10:28:14 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 10:28:14 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 10:28:14 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 10:28:14 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 10:28:14 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 10:28:14 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 10:28:14 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 10:28:14 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 10:28:14 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 10:28:14 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 10:28:14 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 10:28:14 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 10:28:14 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 10:28:14 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:28:15 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:30 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 10:42:18 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 10:42:18 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 10:42:18 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 10:42:18 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 10:42:18 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 10:42:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 10:42:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 10:42:18 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 10:42:18 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 10:42:18 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 10:42:18 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 10:42:18 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 10:42:18 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 10:42:18 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 10:42:18 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 10:42:18 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 10:42:18 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 10:42:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 10:42:18 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:18 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:42:19 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:31 - Triangle can't be created. Wrong data
+2021-10-25 10:56:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 10:56:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 10:56:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 10:56:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 10:56:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 10:56:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 10:56:44 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 10:56:44 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 10:56:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 10:56:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 10:56:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 10:56:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 10:56:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 10:56:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 10:56:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 10:56:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 10:56:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 10:56:44 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 10:56:44 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 10:56:44 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 11:17:39 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 11:17:39 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 11:17:39 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 11:17:39 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 11:17:39 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 11:17:39 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 11:17:39 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 11:17:39 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 11:17:39 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 11:17:39 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 11:17:39 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 11:17:39 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 11:17:39 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 11:17:39 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 11:17:39 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 11:17:39 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 11:17:39 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 11:17:39 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 11:17:39 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 11:17:39 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 11:17:39 [main] WARN  volodko.shape.creator.impl.TriangleCreatorImpl:61 - Triangle with points  CustomPoint{x=2.5, y=3.4}; CustomPoint{x=2.5, y=6.4}; CustomPoint{x=6.5, y=3.4};  isn't created. Wrong data
+2021-10-25 11:17:39 [main] WARN  volodko.shape.creator.impl.TriangleCreatorImpl:61 - Triangle with points  CustomPoint{x=2.5, y=3.4}; CustomPoint{x=2.5, y=6.4}; CustomPoint{x=6.5, y=3.4};  isn't created. Wrong data
+2021-10-25 11:17:39 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=1, pointA=CustomPoint{x=-3.8, y=1.2}, pointB=CustomPoint{x=-2.3, y=3.2}, pointC=CustomPoint{x=-0.8, y=1.2}} is created
+2021-10-25 11:17:39 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=1, pointA=CustomPoint{x=-3.8, y=1.2}, pointB=CustomPoint{x=-2.3, y=3.2}, pointC=CustomPoint{x=-0.8, y=1.2}} is created
+2021-10-25 11:17:39 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=2, pointA=CustomPoint{x=0.0, y=0.0}, pointB=CustomPoint{x=2.5, y=4.33}, pointC=CustomPoint{x=5.0, y=0.0}} is created
+2021-10-25 11:17:39 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=2, pointA=CustomPoint{x=0.0, y=0.0}, pointB=CustomPoint{x=2.5, y=4.33}, pointC=CustomPoint{x=5.0, y=0.0}} is created
+2021-10-25 11:17:39 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=3, pointA=CustomPoint{x=-10.0, y=-12.0}, pointB=CustomPoint{x=-5.0, y=-7.5}, pointC=CustomPoint{x=-2.0, y=-12.0}} is created
+2021-10-25 11:17:39 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=3, pointA=CustomPoint{x=-10.0, y=-12.0}, pointB=CustomPoint{x=-5.0, y=-7.5}, pointC=CustomPoint{x=-2.0, y=-12.0}} is created
+2021-10-25 11:17:39 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=4, pointA=CustomPoint{x=8.3, y=-15.0}, pointB=CustomPoint{x=10.5, y=-11.1}, pointC=CustomPoint{x=17.6, y=-16.2}} is created
+2021-10-25 11:17:39 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=4, pointA=CustomPoint{x=8.3, y=-15.0}, pointB=CustomPoint{x=10.5, y=-11.1}, pointC=CustomPoint{x=17.6, y=-16.2}} is created
+2021-10-25 11:17:39 [main] WARN  volodko.shape.creator.impl.TriangleCreatorImpl:61 - Triangle with points  CustomPoint{x=-3.0, y=-3.0}; CustomPoint{x=-3.0, y=3.2}; CustomPoint{x=1.8, y=-3.0};  isn't created. Wrong data
+2021-10-25 11:17:39 [main] WARN  volodko.shape.creator.impl.TriangleCreatorImpl:61 - Triangle with points  CustomPoint{x=-3.0, y=-3.0}; CustomPoint{x=-3.0, y=3.2}; CustomPoint{x=1.8, y=-3.0};  isn't created. Wrong data
+2021-10-25 11:17:39 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=5, pointA=CustomPoint{x=1.0, y=53.0}, pointB=CustomPoint{x=89.0, y=74.0}, pointC=CustomPoint{x=12.7, y=45.0}} is created
+2021-10-25 11:17:39 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=5, pointA=CustomPoint{x=1.0, y=53.0}, pointB=CustomPoint{x=89.0, y=74.0}, pointC=CustomPoint{x=12.7, y=45.0}} is created
+2021-10-25 11:17:39 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=6, pointA=CustomPoint{x=1.0, y=8.0}, pointB=CustomPoint{x=45.3, y=7.0}, pointC=CustomPoint{x=15.7, y=78.3}} is created
+2021-10-25 11:17:39 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=6, pointA=CustomPoint{x=1.0, y=8.0}, pointB=CustomPoint{x=45.3, y=7.0}, pointC=CustomPoint{x=15.7, y=78.3}} is created
+2021-10-25 11:19:16 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 11:19:16 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 11:19:16 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 11:19:16 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 11:19:16 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 11:19:16 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 11:19:16 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 11:19:16 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 11:19:16 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 11:19:16 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 11:19:16 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 11:19:16 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 11:19:16 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 11:19:16 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 11:19:16 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 11:19:16 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 11:19:16 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 11:19:16 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 11:19:16 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 11:19:16 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 11:19:16 [main] WARN  volodko.shape.creator.impl.TriangleCreatorImpl:61 - Triangle with points  CustomPoint{x=2.5, y=3.4}; CustomPoint{x=2.5, y=6.4}; CustomPoint{x=6.5, y=3.4};  isn't created. Wrong data
+2021-10-25 11:19:16 [main] WARN  volodko.shape.creator.impl.TriangleCreatorImpl:61 - Triangle with points  CustomPoint{x=2.5, y=3.4}; CustomPoint{x=2.5, y=6.4}; CustomPoint{x=6.5, y=3.4};  isn't created. Wrong data
+2021-10-25 11:19:16 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=1, pointA=CustomPoint{x=-3.8, y=1.2}, pointB=CustomPoint{x=-2.3, y=3.2}, pointC=CustomPoint{x=-0.8, y=1.2}} is created
+2021-10-25 11:19:16 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=1, pointA=CustomPoint{x=-3.8, y=1.2}, pointB=CustomPoint{x=-2.3, y=3.2}, pointC=CustomPoint{x=-0.8, y=1.2}} is created
+2021-10-25 11:19:16 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=2, pointA=CustomPoint{x=0.0, y=0.0}, pointB=CustomPoint{x=2.5, y=4.33}, pointC=CustomPoint{x=5.0, y=0.0}} is created
+2021-10-25 11:19:16 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=2, pointA=CustomPoint{x=0.0, y=0.0}, pointB=CustomPoint{x=2.5, y=4.33}, pointC=CustomPoint{x=5.0, y=0.0}} is created
+2021-10-25 11:19:16 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=3, pointA=CustomPoint{x=-10.0, y=-12.0}, pointB=CustomPoint{x=-5.0, y=-7.5}, pointC=CustomPoint{x=-2.0, y=-12.0}} is created
+2021-10-25 11:19:16 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=3, pointA=CustomPoint{x=-10.0, y=-12.0}, pointB=CustomPoint{x=-5.0, y=-7.5}, pointC=CustomPoint{x=-2.0, y=-12.0}} is created
+2021-10-25 11:19:16 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=4, pointA=CustomPoint{x=8.3, y=-15.0}, pointB=CustomPoint{x=10.5, y=-11.1}, pointC=CustomPoint{x=17.6, y=-16.2}} is created
+2021-10-25 11:19:16 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=4, pointA=CustomPoint{x=8.3, y=-15.0}, pointB=CustomPoint{x=10.5, y=-11.1}, pointC=CustomPoint{x=17.6, y=-16.2}} is created
+2021-10-25 11:19:16 [main] WARN  volodko.shape.creator.impl.TriangleCreatorImpl:61 - Triangle with points  CustomPoint{x=-3.0, y=-3.0}; CustomPoint{x=-3.0, y=3.2}; CustomPoint{x=1.8, y=-3.0};  isn't created. Wrong data
+2021-10-25 11:19:16 [main] WARN  volodko.shape.creator.impl.TriangleCreatorImpl:61 - Triangle with points  CustomPoint{x=-3.0, y=-3.0}; CustomPoint{x=-3.0, y=3.2}; CustomPoint{x=1.8, y=-3.0};  isn't created. Wrong data
+2021-10-25 11:19:16 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=5, pointA=CustomPoint{x=1.0, y=53.0}, pointB=CustomPoint{x=89.0, y=74.0}, pointC=CustomPoint{x=12.7, y=45.0}} is created
+2021-10-25 11:19:16 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=5, pointA=CustomPoint{x=1.0, y=53.0}, pointB=CustomPoint{x=89.0, y=74.0}, pointC=CustomPoint{x=12.7, y=45.0}} is created
+2021-10-25 11:19:16 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=6, pointA=CustomPoint{x=1.0, y=8.0}, pointB=CustomPoint{x=45.3, y=7.0}, pointC=CustomPoint{x=15.7, y=78.3}} is created
+2021-10-25 11:19:16 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:59 - Triangle Triangle{triangleId=6, pointA=CustomPoint{x=1.0, y=8.0}, pointB=CustomPoint{x=45.3, y=7.0}, pointC=CustomPoint{x=15.7, y=78.3}} is created
+2021-10-25 11:22:22 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 11:22:22 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 11:22:22 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 11:22:22 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 11:22:22 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 11:22:22 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 11:22:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 11:22:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 11:22:22 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 11:22:22 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 11:22:22 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 11:22:22 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 11:22:22 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 11:22:22 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 11:22:22 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 11:22:22 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 11:22:22 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 11:22:22 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 11:22:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 11:22:22 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 11:22:22 [main] WARN  volodko.shape.creator.impl.TriangleCreatorImpl:62 - Triangle with points  CustomPoint{x=2.5, y=3.4}; CustomPoint{x=2.5, y=6.4}; CustomPoint{x=6.5, y=3.4};  isn't created. Wrong data
+2021-10-25 11:22:22 [main] WARN  volodko.shape.creator.impl.TriangleCreatorImpl:62 - Triangle with points  CustomPoint{x=2.5, y=3.4}; CustomPoint{x=2.5, y=6.4}; CustomPoint{x=6.5, y=3.4};  isn't created. Wrong data
+2021-10-25 11:22:22 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=1, pointA=CustomPoint{x=-3.8, y=1.2}, pointB=CustomPoint{x=-2.3, y=3.2}, pointC=CustomPoint{x=-0.8, y=1.2}} is created
+2021-10-25 11:22:22 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=1, pointA=CustomPoint{x=-3.8, y=1.2}, pointB=CustomPoint{x=-2.3, y=3.2}, pointC=CustomPoint{x=-0.8, y=1.2}} is created
+2021-10-25 11:22:22 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=2, pointA=CustomPoint{x=0.0, y=0.0}, pointB=CustomPoint{x=2.5, y=4.33}, pointC=CustomPoint{x=5.0, y=0.0}} is created
+2021-10-25 11:22:22 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=2, pointA=CustomPoint{x=0.0, y=0.0}, pointB=CustomPoint{x=2.5, y=4.33}, pointC=CustomPoint{x=5.0, y=0.0}} is created
+2021-10-25 11:22:22 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=3, pointA=CustomPoint{x=-10.0, y=-12.0}, pointB=CustomPoint{x=-5.0, y=-7.5}, pointC=CustomPoint{x=-2.0, y=-12.0}} is created
+2021-10-25 11:22:22 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=3, pointA=CustomPoint{x=-10.0, y=-12.0}, pointB=CustomPoint{x=-5.0, y=-7.5}, pointC=CustomPoint{x=-2.0, y=-12.0}} is created
+2021-10-25 11:22:22 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=4, pointA=CustomPoint{x=8.3, y=-15.0}, pointB=CustomPoint{x=10.5, y=-11.1}, pointC=CustomPoint{x=17.6, y=-16.2}} is created
+2021-10-25 11:22:22 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=4, pointA=CustomPoint{x=8.3, y=-15.0}, pointB=CustomPoint{x=10.5, y=-11.1}, pointC=CustomPoint{x=17.6, y=-16.2}} is created
+2021-10-25 11:22:22 [main] WARN  volodko.shape.creator.impl.TriangleCreatorImpl:62 - Triangle with points  CustomPoint{x=-3.0, y=-3.0}; CustomPoint{x=-3.0, y=3.2}; CustomPoint{x=1.8, y=-3.0};  isn't created. Wrong data
+2021-10-25 11:22:22 [main] WARN  volodko.shape.creator.impl.TriangleCreatorImpl:62 - Triangle with points  CustomPoint{x=-3.0, y=-3.0}; CustomPoint{x=-3.0, y=3.2}; CustomPoint{x=1.8, y=-3.0};  isn't created. Wrong data
+2021-10-25 11:22:22 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=5, pointA=CustomPoint{x=1.0, y=53.0}, pointB=CustomPoint{x=89.0, y=74.0}, pointC=CustomPoint{x=12.7, y=45.0}} is created
+2021-10-25 11:22:22 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=5, pointA=CustomPoint{x=1.0, y=53.0}, pointB=CustomPoint{x=89.0, y=74.0}, pointC=CustomPoint{x=12.7, y=45.0}} is created
+2021-10-25 11:22:22 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=6, pointA=CustomPoint{x=1.0, y=8.0}, pointB=CustomPoint{x=45.3, y=7.0}, pointC=CustomPoint{x=15.7, y=78.3}} is created
+2021-10-25 11:22:22 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=6, pointA=CustomPoint{x=1.0, y=8.0}, pointB=CustomPoint{x=45.3, y=7.0}, pointC=CustomPoint{x=15.7, y=78.3}} is created
+2021-10-25 13:36:21 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 13:36:21 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 2.5 3.4     2.5 6.4     6.5 3.4 added.
+2021-10-25 13:36:21 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 13:36:21 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3.8 1.2    -2.3 3.2    -0.8 1.2 added.
+2021-10-25 13:36:21 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 13:36:21 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 0 0         2.5 4.33    5 0 added.
+2021-10-25 13:36:21 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 13:36:21 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 2.25 2.25   4.1
+2021-10-25 13:36:21 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 13:36:21 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -10 -12     -5 -7.5     -2 -12 added.
+2021-10-25 13:36:21 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 13:36:21 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 8.3 -15     10.5 -11.1  17.6 -16.2 added.
+2021-10-25 13:36:21 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 13:36:21 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - -3 -3       -3 3.2      1.8 -3 added.
+2021-10-25 13:36:21 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 13:36:21 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1.0 53      89 74       12.7 45 added.
+2021-10-25 13:36:21 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 13:36:21 [main] INFO  volodko.shape.parser.impl.StringToDoubleParserImpl:33 - 1 8         45.3 7      15.7 78.3 added.
+2021-10-25 13:36:21 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 13:36:21 [main] WARN  volodko.shape.parser.impl.StringToDoubleParserImpl:35 - Validation was failed in line: 9.0 45.s    6 4         8 7.3
+2021-10-25 13:36:21 [main] WARN  volodko.shape.creator.impl.TriangleCreatorImpl:62 - Triangle with points  CustomPoint{x=2.5, y=3.4}; CustomPoint{x=2.5, y=6.4}; CustomPoint{x=6.5, y=3.4};  isn't created. Wrong data
+2021-10-25 13:36:21 [main] WARN  volodko.shape.creator.impl.TriangleCreatorImpl:62 - Triangle with points  CustomPoint{x=2.5, y=3.4}; CustomPoint{x=2.5, y=6.4}; CustomPoint{x=6.5, y=3.4};  isn't created. Wrong data
+2021-10-25 13:36:21 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=1, pointA=CustomPoint{x=-3.8, y=1.2}, pointB=CustomPoint{x=-2.3, y=3.2}, pointC=CustomPoint{x=-0.8, y=1.2}} is created
+2021-10-25 13:36:21 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=1, pointA=CustomPoint{x=-3.8, y=1.2}, pointB=CustomPoint{x=-2.3, y=3.2}, pointC=CustomPoint{x=-0.8, y=1.2}} is created
+2021-10-25 13:36:21 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=2, pointA=CustomPoint{x=0.0, y=0.0}, pointB=CustomPoint{x=2.5, y=4.33}, pointC=CustomPoint{x=5.0, y=0.0}} is created
+2021-10-25 13:36:21 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=2, pointA=CustomPoint{x=0.0, y=0.0}, pointB=CustomPoint{x=2.5, y=4.33}, pointC=CustomPoint{x=5.0, y=0.0}} is created
+2021-10-25 13:36:21 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=3, pointA=CustomPoint{x=-10.0, y=-12.0}, pointB=CustomPoint{x=-5.0, y=-7.5}, pointC=CustomPoint{x=-2.0, y=-12.0}} is created
+2021-10-25 13:36:21 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=3, pointA=CustomPoint{x=-10.0, y=-12.0}, pointB=CustomPoint{x=-5.0, y=-7.5}, pointC=CustomPoint{x=-2.0, y=-12.0}} is created
+2021-10-25 13:36:21 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=4, pointA=CustomPoint{x=8.3, y=-15.0}, pointB=CustomPoint{x=10.5, y=-11.1}, pointC=CustomPoint{x=17.6, y=-16.2}} is created
+2021-10-25 13:36:21 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=4, pointA=CustomPoint{x=8.3, y=-15.0}, pointB=CustomPoint{x=10.5, y=-11.1}, pointC=CustomPoint{x=17.6, y=-16.2}} is created
+2021-10-25 13:36:21 [main] WARN  volodko.shape.creator.impl.TriangleCreatorImpl:62 - Triangle with points  CustomPoint{x=-3.0, y=-3.0}; CustomPoint{x=-3.0, y=3.2}; CustomPoint{x=1.8, y=-3.0};  isn't created. Wrong data
+2021-10-25 13:36:21 [main] WARN  volodko.shape.creator.impl.TriangleCreatorImpl:62 - Triangle with points  CustomPoint{x=-3.0, y=-3.0}; CustomPoint{x=-3.0, y=3.2}; CustomPoint{x=1.8, y=-3.0};  isn't created. Wrong data
+2021-10-25 13:36:21 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=5, pointA=CustomPoint{x=1.0, y=53.0}, pointB=CustomPoint{x=89.0, y=74.0}, pointC=CustomPoint{x=12.7, y=45.0}} is created
+2021-10-25 13:36:21 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=5, pointA=CustomPoint{x=1.0, y=53.0}, pointB=CustomPoint{x=89.0, y=74.0}, pointC=CustomPoint{x=12.7, y=45.0}} is created
+2021-10-25 13:36:21 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=6, pointA=CustomPoint{x=1.0, y=8.0}, pointB=CustomPoint{x=45.3, y=7.0}, pointC=CustomPoint{x=15.7, y=78.3}} is created
+2021-10-25 13:36:21 [main] INFO  volodko.shape.creator.impl.TriangleCreatorImpl:60 - Triangle Triangle{triangleId=6, pointA=CustomPoint{x=1.0, y=8.0}, pointB=CustomPoint{x=45.3, y=7.0}, pointC=CustomPoint{x=15.7, y=78.3}} is created
+2021-10-25 14:17:09 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:42 - Perimeter of triangle with ID = 1 is 6.749
+2021-10-25 14:17:09 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:42 - Perimeter of triangle with ID = 1 is 6.749
+2021-10-25 14:19:23 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:108 - Triangle with ID = 2 is right
+2021-10-25 14:19:23 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:108 - Triangle with ID = 2 is right
+2021-10-25 14:20:39 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:125 - Triangle with ID = 2 is acute
+2021-10-25 14:20:39 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:125 - Triangle with ID = 2 is acute
+2021-10-25 14:21:27 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:142 - Triangle with ID = 1 is obtuse
+2021-10-25 14:21:27 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:142 - Triangle with ID = 1 is obtuse
+2021-10-25 14:22:28 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:75 - Triangle with ID = 2 is isosceles
+2021-10-25 14:22:28 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:75 - Triangle with ID = 2 is isosceles
+2021-10-25 14:22:53 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:75 - Triangle with ID = 1 isn't isosceled
+2021-10-25 14:22:53 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:75 - Triangle with ID = 1 isn't isosceled
+2021-10-25 14:23:26 [main] WARN  volodko.shape.action.impl.TriangleCalculateImpl:68 - This triangle is null
+2021-10-25 14:23:26 [main] WARN  volodko.shape.action.impl.TriangleCalculateImpl:68 - This triangle is null
+2021-10-25 14:24:36 [main] WARN  volodko.shape.action.impl.TriangleCalculateImpl:68 - This triangle is null
+2021-10-25 14:24:36 [main] WARN  volodko.shape.action.impl.TriangleCalculateImpl:68 - This triangle is null
+2021-10-25 14:24:42 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:91 - Triangle with ID = 2 is equilateral
+2021-10-25 14:24:42 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:91 - Triangle with ID = 2 is equilateral
+2021-10-25 14:25:19 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:91 - Triangle with ID = 1 isn't equilateral
+2021-10-25 14:25:19 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:91 - Triangle with ID = 1 isn't equilateral
+2021-10-25 14:25:35 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:60 - Area of triangle with ID = 1 is 0.824
+2021-10-25 14:25:35 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:60 - Area of triangle with ID = 1 is 0.824
+2021-10-25 14:25:35 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:42 - Perimeter of triangle with ID = 1 is 6.749
+2021-10-25 14:25:35 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:42 - Perimeter of triangle with ID = 1 is 6.749
+2021-10-25 14:25:35 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:125 - Triangle with ID = 2 is acute
+2021-10-25 14:25:35 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:125 - Triangle with ID = 2 is acute
+2021-10-25 14:25:35 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:91 - Triangle with ID = 3 is equilateral
+2021-10-25 14:25:35 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:91 - Triangle with ID = 3 is equilateral
+2021-10-25 14:25:35 [main] WARN  volodko.shape.action.impl.TriangleCalculateImpl:68 - This triangle is null
+2021-10-25 14:25:35 [main] WARN  volodko.shape.action.impl.TriangleCalculateImpl:68 - This triangle is null
+2021-10-25 14:25:35 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:75 - Triangle with ID = 4 is isosceles
+2021-10-25 14:25:35 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:75 - Triangle with ID = 4 is isosceles
+2021-10-25 14:25:35 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:91 - Triangle with ID = 1 isn't equilateral
+2021-10-25 14:25:35 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:91 - Triangle with ID = 1 isn't equilateral
+2021-10-25 14:25:35 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:75 - Triangle with ID = 1 isn't isosceled
+2021-10-25 14:25:35 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:75 - Triangle with ID = 1 isn't isosceled
+2021-10-25 14:25:35 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:142 - Triangle with ID = 1 is obtuse
+2021-10-25 14:25:35 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:142 - Triangle with ID = 1 is obtuse
+2021-10-25 14:25:35 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:108 - Triangle with ID = 5 is right
+2021-10-25 14:25:35 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:108 - Triangle with ID = 5 is right
+2021-10-25 14:26:29 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:60 - Area of triangle with ID = 1 is 0.824
+2021-10-25 14:26:29 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:60 - Area of triangle with ID = 1 is 0.824
+2021-10-25 14:26:44 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:60 - Area of triangle with ID = 1 is 0.824
+2021-10-25 14:26:44 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:60 - Area of triangle with ID = 1 is 0.824
+2021-10-25 14:26:50 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:60 - Area of triangle with ID = 1 is 0.824
+2021-10-25 14:26:50 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:60 - Area of triangle with ID = 1 is 0.824
+2021-10-25 14:26:50 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:42 - Perimeter of triangle with ID = 1 is 6.749
+2021-10-25 14:26:50 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:42 - Perimeter of triangle with ID = 1 is 6.749
+2021-10-25 14:26:50 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:125 - Triangle with ID = 2 is acute
+2021-10-25 14:26:50 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:125 - Triangle with ID = 2 is acute
+2021-10-25 14:26:50 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:91 - Triangle with ID = 3 is equilateral
+2021-10-25 14:26:50 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:91 - Triangle with ID = 3 is equilateral
+2021-10-25 14:26:50 [main] WARN  volodko.shape.action.impl.TriangleCalculateImpl:68 - This triangle is null
+2021-10-25 14:26:50 [main] WARN  volodko.shape.action.impl.TriangleCalculateImpl:68 - This triangle is null
+2021-10-25 14:26:50 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:75 - Triangle with ID = 4 is isosceles
+2021-10-25 14:26:50 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:75 - Triangle with ID = 4 is isosceles
+2021-10-25 14:26:50 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:91 - Triangle with ID = 1 isn't equilateral
+2021-10-25 14:26:50 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:91 - Triangle with ID = 1 isn't equilateral
+2021-10-25 14:26:50 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:75 - Triangle with ID = 1 isn't isosceled
+2021-10-25 14:26:50 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:75 - Triangle with ID = 1 isn't isosceled
+2021-10-25 14:26:50 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:142 - Triangle with ID = 1 is obtuse
+2021-10-25 14:26:50 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:142 - Triangle with ID = 1 is obtuse
+2021-10-25 14:26:50 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:108 - Triangle with ID = 5 is right
+2021-10-25 14:26:50 [main] INFO  volodko.shape.action.impl.TriangleCalculateImpl:108 - Triangle with ID = 5 is right
